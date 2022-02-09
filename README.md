@@ -1,4 +1,4 @@
-## Olá me chamo Samuel!
+## É um prazer te ver aqui, seja bem-vindo(a) ao meu perfil, sou o Samuel!
 <div>
   <a href="https://github.com/Sam-S-Pina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-Pina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
