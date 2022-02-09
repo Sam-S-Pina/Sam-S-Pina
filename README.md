@@ -1,5 +1,6 @@
 ## É um prazer te ver aqui, seja bem-vindo(a) ao meu perfil, sou o Samuel!
 <div>
+  <div align="center">
   <a href="https://github.com/Sam-S-Pina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-Pina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Pina&layout=compact&langs_count=7&theme=dracula"/>
@@ -11,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Rafa-Ts" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+   
 
 </div>
   
